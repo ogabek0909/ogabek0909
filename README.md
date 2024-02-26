@@ -1,13 +1,18 @@
+
+
+## About Me 
+I am 19 years old flutter developer with a year of experience :man_technologist:. I am a student at SamISI :man_student:. 
+- 🔭 I’m currently working on an English learning application.
+- 🌱 I’m currently learning CI/CD.
+- 📫 How to reach me: +998975777592, norpulatovogabek@gmail.com
+
+
 ### Hi there 👋
 # OgabekNorpulatov
 ## Github stats
 ![Ogabek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogabek0909&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ogabek0909&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
-## About Me 
-I am 19 years old flutter developer with a year of experience :man_technologist:. I am a student at SamISI :man_student:. 
 
 
 ## Social networks
