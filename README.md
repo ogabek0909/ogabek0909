@@ -16,7 +16,7 @@ I am 19 years old flutter developer with a year of experience :man_technologist:
 </div >
 <a href="https://t.me/ogabek_norpulatov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.codewars.com/users/norpulatovogabek"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-<a href="https://www.instagram.com/users/norpulatov_ogabek"><img src="https://img.shields.io/badge/Instagram-eb4034?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/norpulatov_ogabek"><img src="https://img.shields.io/badge/Instagram-eb4034?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
 ## Frameworks and Tools
